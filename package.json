@@ -1,0 +1,22 @@
+{
+  "name": "memorix-client-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/memorix-client: commit a test checkpoint only after a successful apply acknowledgement.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/memorix-client": "3.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/memorix-client.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/memorix-client"
+}

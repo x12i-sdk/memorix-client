@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-client",
+  "packageVersion": "3.17.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-client",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-client",
+  "sourceRepository": "https://github.com/x12i/memorix-client-api",
+  "sourceCommit": "09d8f02eb5f96c2d8f99d28996cff1f9a458115b",
+  "sourcePackageDirectory": "memorix-client",
+  "example": {
+    "title": "Commit a test checkpoint only after a successful apply acknowledgement",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:51:57.165114+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "9cc78ce7e164074674551843ad7e2beeab7d9a3cb1d5f60ec1baa4ab4a6b584b",
+    "manifestSha256": "a67135439edfb060ed26c9c3a06923f3c83abb1a9c2c1804aae345dbd73160d0"
+  }
+}
